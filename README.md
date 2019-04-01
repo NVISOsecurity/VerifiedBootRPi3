@@ -3,7 +3,7 @@
 
 The `instructionS.md` file contains a step-by-step guide to enabling Verified Boot and booting into OPTEE-OS on a Raspberry Pi 3 B+.
 
-Want more information about this project? Read our blogbost: LINK COMING SOON.
+Want more information about this project? Read our (blogpost!)[https://blog.nviso.be/2019/04/01/enabling-verified-boot-on-raspberry-pi-3/].
 
 ## Acknowledgments
 
