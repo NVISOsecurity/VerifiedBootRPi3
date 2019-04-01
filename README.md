@@ -7,7 +7,7 @@ Want more information about this project? Read our blogbost: LINK COMING SOON.
 
 ## Acknowledgments
 
-This project was made possible by [Innoviris](http://innoviris.be/), SCRATch and [ITEA3](https://itea3.org/).
+This project was made possible thanks to [Innoviris](http://innoviris.be/) and SCRATch, an [ITEA3](https://itea3.org/) project.
 
 ![Innoviris logo](img/innoviris.png)
 ![ITEA3 logo](img/itea3.png)
