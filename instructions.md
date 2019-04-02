@@ -1,6 +1,7 @@
 # Introduction 
 
 The following instructions will help you build U-Boot and OPTEE-OS for Raspberry Pi 3 B+ on a Linux host and enable Verified boot.
+We built this on Ubuntu 18.04.0. 
 
 ## Part 1 - Building OPTEE-OS
 
